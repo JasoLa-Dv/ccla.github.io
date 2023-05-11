@@ -199,6 +199,8 @@ function BlogListExample() {
 </div>
 </article>
 <hr class="featurette-divider" />
+
+
 </div>
 </div>
 

@@ -16,7 +16,7 @@ function App() {
       <RedesSociales />
       <DirectivaExample />
       <BlogListExample />
-      <Footer />
+      <FooterExample />
       
     </div>
   );

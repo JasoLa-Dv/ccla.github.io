@@ -20,7 +20,7 @@ function CollapsibleExample() {
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="mx-auto">
-            <Nav.Link  href="#features">Cuota CGPA</Nav.Link>
+            <Nav.Link  href="#features"><b>Cuota CGPA</b></Nav.Link>
           
           </Nav>
           <Nav>

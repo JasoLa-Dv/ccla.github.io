@@ -3,58 +3,58 @@ function BlogListExample() {
     return (
 
 <div className="container mt-4 mb-lg-5 pt-lg-2 pb-5">
-<div class="row align-items-end gy-3 mb-4 pb-lg-3 pb-1">
-<div class="row align-items-end gy-3 mb-4 pb-lg-3 pb-1">
-  <div class="col-lg-5 col-md-4">
-    <h1 class="mb-2 mb-md-0">Comisiones</h1>
+<div className="row align-items-end gy-3 mb-4 pb-lg-3 pb-1">
+<div className="row align-items-end gy-3 mb-4 pb-lg-3 pb-1">
+  <div className="col-lg-5 col-md-4">
+    <h1 className="mb-2 mb-md-0">Comisiones</h1>
   </div>
 </div>
 
 
 
-  <article class="card border-0 shadow-sm overflow-hidden mb-4">
-  <div class="row g-0"  >
-
-  <div class="col-sm-4 " >
-
-    
-  <img className="d-block w-50 rounded-3"
+<article className="">
+  <div className="row g-0">
+  <div className="col-sm-4" >
+   <div className="text-center">
+        <img className="w-50 rounded-4 m-3" 
           src="https://res.cloudinary.com/ddahjf0hr/image/upload/v1683827218/Shoe/comunicacion_bjyxhf.jpg"
-          alt="First slide"/> 
-    </div>
-
-
+          alt="First slide"/>   
+ </div>
+          
+</div>
+  
     <div class="col-sm-8">
       <div class="card-body">
-        <div class="d-flex align-items-center mb-2">
-          <a href="https://home.jpg" class="badge bg-secondary text-decoration-none">Comisión de Comunicaciones y RR. SS.</a>
+        <div class="d-flex align-items-center mb-3">
+          <a  href="https://home.jpg" class="badge fs-sm text-nav bg-secondary text-decoration-none">Comisión de Comuinicaciones y RR.SS.</a>
           <span class="fs-sm text-muted border-start ps-3 ms-3">Sep 3, 2021</span>
         </div>
        
-        <p>Buscamos personas entusiatas que quieran ser parte de la Comisión de Comunicaciones y RR. SS. de nuestro CGPA..</p>
+        <p>Buscamos personas entusiatas que quieran ser parte de la Comisión de Comunicaciones y RR. SS. de nuestro CGPA.</p>
         <hr class="my-4" />
         <div class="d-flex align-items-center justify-content-between">
           <a href="https://home.jpg" class="d-flex align-items-center fw-bold text-dark text-decoration-none me-3">
             <img src="https://res.cloudinary.com/ddahjf0hr/image/upload/v1670009941/Shoe/avatar_ywkhdt.png" class="rounded-circle me-3" width="48" alt="Avatar" />
-            Juan Silva Oróstica
-          </a>
-          
-        </div>
+            Juan Silva Oróstica</a>
+            </div>
       </div>
     </div>
 </div>
+</article>
+
 <hr class="featurette-divider" />
 
 
-  </article>
-
-  <article class="card border-0 shadow-sm overflow-hidden mb-4">
-  <div class="row g-0">
-  <div class="col-sm-4 mx-auto" >
-  <img className="d-block w-50  align-items-center rounded-3"
+<article className="">
+  <div className="row g-0">
+  <div className="col-sm-4" >
+   <div className="text-center">
+        <img className="w-50 rounded-4 m-3" 
           src="https://res.cloudinary.com/ddahjf0hr/image/upload/v1683826378/Shoe/educacion_xpjibx.jpg"
-          alt="First slide"/> 
-    </div>
+          alt="First slide"/>   
+ </div>
+
+ </div>
     <div class="col-sm-8">
       <div class="card-body">
         <div class="d-flex align-items-center mb-3">
@@ -76,12 +76,15 @@ function BlogListExample() {
 
 <hr class="featurette-divider" />
 
-<article class="card border-0 shadow-sm overflow-hidden mb-4">
-  <div class="row g-0">
-  <div class="col-sm-4 mx-auto" >
-  <img className="d-block w-50  align-items-center rounded-4"
+<article className="">
+  <div className="row g-0">
+  <div className="col-sm-4" >
+   <div className="text-center">
+        <img className="w-50 rounded-4 m-3" 
           src="https://res.cloudinary.com/ddahjf0hr/image/upload/v1683827091/Shoe/medio_ambiente_kdf4xd.jpg"
-          alt="First slide"/> 
+          alt="First slide"/>   
+ </div>
+
     </div>
     <div class="col-sm-8">
       <div class="card-body">
@@ -103,12 +106,17 @@ function BlogListExample() {
 </article>
 <hr class="featurette-divider" />
 
-<article class="">
-  <div class="row g-0">
-  <div class="col-sm-4" >
-  <img className="w-50 rounded-4"
+
+<article className="">
+  <div className="row g-0">
+  <div className="col-sm-4" >
+   <div className="text-center">
+        <img className="w-50 rounded-4 m-3" 
           src="https://res.cloudinary.com/ddahjf0hr/image/upload/v1683828591/Shoe/Deporte_wtesmw.jpg"
-          alt="First slide"/> 
+          alt="First slide"/>   
+ </div>
+
+
     </div>
     <div class="col-sm-8">
       <div class="card-body">
@@ -130,12 +138,16 @@ function BlogListExample() {
 </article>
 <hr class="featurette-divider" />
 
-<article class="">
-  <div class="row g-0">
-  <div class="col-sm-4" >
-  <img className="w-50 rounded-4"
+<article className="">
+  <div className="row g-0">
+  <div className="col-sm-4" >
+   <div className="text-center">
+        <img className="w-50 rounded-4 m-3" 
           src="https://res.cloudinary.com/ddahjf0hr/image/upload/v1683828599/Shoe/bienestar_fimvvk.jpg"
-          alt="First slide"/> 
+          alt="First slide"/>   
+ </div>
+
+
     </div>
     <div class="col-sm-8">
       <div class="card-body">
@@ -158,13 +170,16 @@ function BlogListExample() {
 <hr class="featurette-divider" />
 
 
-<article class="">
-  <div class="row g-0">
-  <div class="col-sm-4" >
-  <img className="w-50 rounded-4"
+<article className="">
+  <div className="row g-0">
+  <div className="col-sm-4" >
+   <div className="text-center">
+        <img className="w-50 rounded-4 m-3" 
           src="https://res.cloudinary.com/ddahjf0hr/image/upload/v1683828614/Shoe/convivencia_rtvar0.jpg"
-          alt="First slide"/> 
-    </div>
+          alt="First slide"/>    </div>
+          
+          </div>
+  
     <div class="col-sm-8">
       <div class="card-body">
         <div class="d-flex align-items-center mb-3">

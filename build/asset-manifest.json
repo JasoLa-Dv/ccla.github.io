@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/ccla.github.io/static/css/main.31d6cfe0.css",
+    "main.js": "/ccla.github.io/static/js/main.cdf12b8d.js",
+    "index.html": "/ccla.github.io/index.html",
+    "main.cdf12b8d.js.map": "/ccla.github.io/static/js/main.cdf12b8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.cdf12b8d.js"
+  ]
+}

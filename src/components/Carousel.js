@@ -2,7 +2,7 @@ import Carousel from 'react-bootstrap/Carousel';
 
 function CarouselFadeExample() {
   return (
-    <div class="container-md " >
+    <div class="container-md p-3" >
     <Carousel fade>
       <Carousel.Item>
         <img className="d-block w-100"

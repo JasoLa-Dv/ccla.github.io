@@ -50,7 +50,7 @@ function BlogListExample() {
   <div className="col-sm-4" >
    <div className="text-center">
         <img className="w-50 rounded-4 m-3" 
-          src="https://res.cloudinary.com/ddahjf0hr/image/upload/v1683826378/Shoe/educacion_xpjibx.jpg"
+          src="https://res.cloudinary.com/ddahjf0hr/image/upload/v1683826378/educacion_xpjibx.jpg"
           alt="First slide"/>   
  </div>
 
@@ -81,7 +81,7 @@ function BlogListExample() {
   <div className="col-sm-4" >
    <div className="text-center">
         <img className="w-50 rounded-4 m-3" 
-          src="https://res.cloudinary.com/ddahjf0hr/image/upload/v1683827091/Shoe/medio_ambiente_kdf4xd.jpg"
+          src="https://res.cloudinary.com/ddahjf0hr/image/upload/v1683827091/medio_ambiente_kdf4xd.jpg"
           alt="First slide"/>   
  </div>
 
@@ -112,7 +112,7 @@ function BlogListExample() {
   <div className="col-sm-4" >
    <div className="text-center">
         <img className="w-50 rounded-4 m-3" 
-          src="https://res.cloudinary.com/ddahjf0hr/image/upload/v1683828591/Shoe/Deporte_wtesmw.jpg"
+          src="https://res.cloudinary.com/ddahjf0hr/image/upload/v1683828591/Deporte_wtesmw.jpg"
           alt="First slide"/>   
  </div>
 
@@ -143,7 +143,7 @@ function BlogListExample() {
   <div className="col-sm-4" >
    <div className="text-center">
         <img className="w-50 rounded-4 m-3" 
-          src="https://res.cloudinary.com/ddahjf0hr/image/upload/v1683828599/Shoe/bienestar_fimvvk.jpg"
+          src="https://res.cloudinary.com/ddahjf0hr/image/upload/v1683828599/bienestar_fimvvk.jpg"
           alt="First slide"/>   
  </div>
 
@@ -175,7 +175,7 @@ function BlogListExample() {
   <div className="col-sm-4" >
    <div className="text-center">
         <img className="w-50 rounded-4 m-3" 
-          src="https://res.cloudinary.com/ddahjf0hr/image/upload/v1683828614/Shoe/convivencia_rtvar0.jpg"
+          src="https://res.cloudinary.com/ddahjf0hr/image/upload/v1683828614/convivencia_rtvar0.jpg"
           alt="First slide"/>    </div>
           
           </div>

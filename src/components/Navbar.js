@@ -2,21 +2,23 @@ import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import NavDropdown from 'react-bootstrap/NavDropdown';
+import './css/custom.css'
 
 
 function CollapsibleExample() {
   return (
     <Navbar collapseOnSelect expand="lg" bg="light" variant="light">
       <Container >
-        <Navbar.Brand href="#home">
-        <div class="d-flex align-items-center p-2 m-3 text-black rounded shadow">
-        <img class="me-3" src="https://res.cloudinary.com/ddahjf0hr/image/upload/v1683682648/icon2_c8j62w.png" alt="" width="60" height="60"></img>
+           <Navbar.Brand href="#home">
+        <div className="d-flex align-items-center p-2  text-black rounded shadow">
+        <img className="me-3" src="https://res.cloudinary.com/ddahjf0hr/image/upload/v1683682648/icon2_c8j62w.png" alt="" width="60" height="60"></img>
         <div >
-        <h5>Centro General de Padres y Apoderados</h5>
-        <h6>Colegio Concepción Los Angeles</h6>
+        <h5 className="mb-0 text-black my-h1"><b>Centro General de Padres y Apoderados</b></h5>
+        <small className="my-h2">Colegio Concepción Los Angeles</small>
         </div>
         </div>
         </Navbar.Brand>
+           
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="mx-auto">

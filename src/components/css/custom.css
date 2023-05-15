@@ -1,10 +1,20 @@
-#social-fb:hover {
-    color: #3B5998;
-}
-#social-int:hover {
-    color: #d34836;
-}
+.my-h1 {
+    font-size: 20px;
+    
+  }
 
-#social-em:hover {
-    color: #42D366;
-}
+  .my-h2 {
+
+    font-size: 20px;
+  }
+  @media only screen  
+  and (max-width : 390px) {  
+    .my-h1 {
+        font-size: 14px;
+        
+      }
+      .my-h2 {
+
+        font-size: 13px;
+      }
+  } 
